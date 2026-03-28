@@ -1,0 +1,10 @@
+{
+	"id": "image-carousel",
+	"name": "Image Carousel",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Click any image to open a carousel and navigate between images in the document with arrow keys.",
+	"author": "eulersson",
+	"authorUrl": "https://github.com/eulersson",
+	"isDesktopOnly": false
+}
