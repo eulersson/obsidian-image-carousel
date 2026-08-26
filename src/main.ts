@@ -39,6 +39,7 @@ export default class ImageCarouselPlugin extends Plugin {
 		this.addCommand({
 			id: 'open-carousel',
 			name: 'Open image carousel',
+			icon: 'gallery-horizontal',
 			checkCallback: (checking: boolean) => {
 				const view = this.app.workspace.getActiveViewOfType(MarkdownView);
 				if (!view) return false;
